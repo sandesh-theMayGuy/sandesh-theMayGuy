@@ -2,9 +2,12 @@
 
 I'm passionate about programming,software engineering, and things surrounding it.
 
-## I communicate with machines, primarily in: 
+## Proficient in: 
+![Python](https://img.shields.io/badge/Python-Expert-success?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-Intermediate-yellow?style=for-the-badge&logo=java)
 - JavaScript
 - NodeJS
+- ExpressJS
 - HTML/CSS
 - Python
 
