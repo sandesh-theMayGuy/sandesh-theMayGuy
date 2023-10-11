@@ -2,13 +2,13 @@
 
 I'm passionate about programming,software engineering, and things surrounding it.
 
-## Communicates primarily in: 
+## I communicate with machines, primarily in: 
 - JavaScript
 - NodeJS
 - HTML/CSS
 - Python
 
-##Also familiar with:
+## Also familiar with:
 - PHP
 - MySQL
 - JAVA
