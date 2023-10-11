@@ -3,12 +3,12 @@
 I'm passionate about programming,software engineering, and things surrounding it.
 
 ## Technologies that I use in my projects: 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript)
-![NodeJS](https://img.shields.io/badge/Node.js-Proficient-success?style=for-the-badge&logo=node.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript)
+![NodeJS](https://img.shields.io/badge/Node.js-Proficient-success?style=for-the-badge&logo=node.js) <br>
 ![ExpressJS](https://img.shields.io/badge/expressjs-Intermediate-success?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/mysql-Begineer-yellow?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/mysql-Begineer-yellow?style=for-the-badge&logo=mysql) <br>
 ![Python](https://img.shields.io/badge/Python-Intermediate-success?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-Begineer-yellow?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-Begineer-yellow?style=for-the-badge&logo=java) <br>
 ![C](https://img.shields.io/badge/C-Begineer-yellow?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-Proficient-brightgreen?style=for-the-badge&logo=c%2B%2B)
 
