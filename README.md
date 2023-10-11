@@ -33,8 +33,7 @@ If you want to have a conversation, or just say Hi  💬:
 
 Let's get connected to learn,collaborate and build ourselves together.👯
 
-
-[!](https://holopin.me/sandeshthemayguy)](https://holopin.io/@sandeshthemayguy)
+[![An image of @sandeshthemayguy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandeshthemayguy)](https://holopin.io/@sandeshthemayguy)
 
 <!--
 **sandesh-theMayGuy/sandesh-theMayGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
