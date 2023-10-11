@@ -2,22 +2,15 @@
 
 I'm passionate about programming,software engineering, and things surrounding it.
 
-## Proficient in: 
-![Python](https://img.shields.io/badge/Python-Expert-success?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-Intermediate-yellow?style=for-the-badge&logo=java)
-- JavaScript
-- NodeJS
-- ExpressJS
-- HTML/CSS
-- Python
-
-## Also familiar with:
-- PHP
-- MySQL
-- JAVA
-- C
-- C++
-- Git
+## Technologies that I use in my projects: 
+![JavaScript](https://img.shields.io/badge/JS-Intermediate-success?style=for-the-badge&logo=JS)
+![NodeJS](https://img.shields.io/badge/nodejs-Intermediate-success?style=for-the-badge&logo=nodejs)
+![ExpressJS](https://img.shields.io/badge/expressjs-Intermediate-success?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/mysql-Begineer-yellow?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-Intermediate-success?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-Begineer-yellow?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-Begineer-yellow?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-Begineer-yellow?style=for-the-badge&logo=c++)
 
 
 ## GitHub Stats
