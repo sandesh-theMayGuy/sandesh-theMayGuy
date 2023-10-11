@@ -33,7 +33,7 @@ Outside of coding, I enjoy travelling, watching movies and reading books.
 If you want to have a conversation, or just say Hi  💬:
 - LinkedIn: [Sandesh Khatiwada](https://www.linkedin.com/in/sandeshkhatiwada)
 - Email: khatiwadasandesh01@gmail.com
-- [Website](sandeshkhatiwada.com.np)
+- [Website](https://www.sandeshkhatiwada.com.np)
 
 Let's get connected to learn,collaborate and build ourselves together.👯
   
