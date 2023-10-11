@@ -23,12 +23,14 @@ I'm passionate about programming,software engineering, and things surrounding it
 ## Blog
 Check out my [blog](https://sandeshkhatiwada.hashnode.dev/) for interesting articles related to programming and Software Engineering in general.
 
+## 
 Outside of coding, I enjoy travelling, watching movies and reading books.
 
-If you want to have a conversation, or just say Hi  💬:
+
 
 
 ## Contact
+If you want to have a conversation, or just say Hi  💬:
 - LinkedIn: [Sandesh Khatiwada](https://www.linkedin.com/in/sandeshkhatiwada)
 - Email: khatiwadasandesh01@gmail.com
 - Website: sandeshkhatiwada.com.np
