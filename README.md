@@ -2,14 +2,19 @@
 
 I'm passionate about programming,software engineering, and things surrounding it.
 
-## Skills
-- Python
+## Communicates primarily in: 
 - JavaScript
 - NodeJS
 - HTML/CSS
-- Git
+- Python
+
+##Also familiar with:
 - PHP
 - MySQL
+- JAVA
+- C
+- C++
+- Git
 
 
 ## GitHub Stats
