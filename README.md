@@ -33,6 +33,10 @@ If you want to have a conversation, or just say Hi  💬:
 
 Let's get connected to learn,collaborate and build ourselves together.👯
 
+## Hacktoberfest Achievements
+
+I am participating in Hacktoberfest, an annual event that promotes open source contributions. During this event, I had the opportunity to contribute to various open source projects and earn these badges:
+
 [![An image of @sandeshthemayguy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandeshthemayguy)](https://holopin.io/@sandeshthemayguy)
 
 <!--
